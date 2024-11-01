@@ -1,4 +1,19 @@
 {
+    "name": "CyPwn IPA Library",
+    "identifier": "xyz.cypwn.ipalibrary",
+    "subtitle": "CyPwn's Exclusive IPA Library",
+    "iconURL": "https:\/\/repo.cypwn.xyz\/assets\/images\/cypwn_small.png",
+    "website": "https:\/\/ipa.cypwn.xyz",
+    "sourceURL": "https:\/\/ipa.cypwn.xyz\/cypwn.json",
+    "tintColor": "FFC300",
+    "featuredApps": [
+        "Ed0ardo.CyPwnStore"
+    ],
+    "crypto": {
+        "btc": "3MNWXDGVHWYvpiUx2z6VFcPtAyP85mBn3G"
+    },
+    "apps": [
+		{
             "name": "Regram_1.0-b10_351.0.1",
             "bundleIdentifier": "com.burbn.instagram",
             "developerName": "Regram_1.0-b10_351.0.1 x CyPwn",
@@ -10,6 +25,5 @@
             "tintColor": "FFC300",
             "size": 173015040,
             "screenshotURLs": [
-                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Regram_1.0-b10_351.0.1\/Regram_1.0-b10_351.0.1-1.png"
-            ]
-        }
+            "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Regram_1.0-b10_351.0.1\/Regram_1.0-b10_351.0.1-1.png"
+		
